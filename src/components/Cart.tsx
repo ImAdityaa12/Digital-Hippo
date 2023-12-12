@@ -9,7 +9,7 @@ import {
 } from "@/components/ui/sheet";
 import { ShoppingCartIcon } from "lucide-react";
 import { Separator } from "./ui/separator";
-import { formatPrice, formatPrice } from "@/lib/utils";
+import { formatPrice } from "@/lib/utils";
 
 const Cart = () => {
   const itemCount = 1;
